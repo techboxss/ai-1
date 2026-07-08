@@ -1,0 +1,8 @@
+{
+  "name": "Kagalwalla Law Offices LLC Dashboard",
+  "description": "A contemporary, trustworthy dashboard for managing real estate closings, title reviews, property transactions, document filings, and estate planning client matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
